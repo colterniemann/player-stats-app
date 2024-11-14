@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+.env
+
+# Virtual environment
+venv/
+
+# Configuration files
+config.ini
+
+# Database backup files
+*.sql
+*.csv
